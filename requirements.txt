@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+geopandas
+matplotlib
+seaborn
+streamlit
+plotly
+joblib
+libpysal
+spreg
